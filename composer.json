@@ -1,5 +1,5 @@
 {
-    "name": "brezzhnev/atlassian-connect-core",
+    "name": "kaduna/atlassian-connect-core",
     "type": "library",
     "description": "Atlassian Connect Framework to build add-on for the JIRA and Confluence",
     "keywords": [
